@@ -1,0 +1,1 @@
+import{pc as n}from"./chunk-5QJ4XWED.js";var o=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=n({type:e,selectors:[["app-ui-plug"]],decls:0,vars:0,template:function(t,i){},styles:["[_nghost-%COMP%]{height:100vh}"],changeDetection:0})};export{o as a};

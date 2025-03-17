@@ -1,0 +1,1 @@
+import{J as o,R as u}from"./chunk-Q6JRQLBA.js";import{h as s}from"./chunk-5QJ4XWED.js";var r=s(u());var m=(n,e=999)=>{if(!n)return null;let t=(0,r.default)();return(0,r.default)(n).diff(t,"days")<=e?(0,r.default)(n).diff(t):0};var l=n=>o.fromMillis(n).as("days")>1,c=n=>Math.ceil(o.fromMillis(n).as("days"));export{m as a,l as b,c};
